@@ -24,8 +24,6 @@ Overall it is estimated that a full derate costs the company about $4,000.
 * **Data Visualization**: Seaborn, Matplotlib
 * **Interactivitiy**: R Shiny
   
-## Featured Deliverables
-* Slides: https://docs.google.com/presentation/d/1riJntv5wCGItmWK_xJZu9lri_LJmwN0LgymnjcPITtc/edit#slide=id.g733babcb4d_0_14
 
 ## Contact
 * Email: [cityofbrittany@gmail.com](cityofbrittany@gmail.com)
